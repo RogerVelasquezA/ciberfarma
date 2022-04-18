@@ -36,6 +36,8 @@ public class JPATest01 {
 		em.getTransaction().commit();
 		
 		System.out.println("para GIT");
+		
+		System.out.println("para GIT");
 	}
 
 }

@@ -37,7 +37,7 @@ public class JPATest01 {
 		
 		System.out.println("para GIT");
 		
-		System.out.println("para GIT");
+		System.out.println("para GIT alternativo");
 	}
 
 }
